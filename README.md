@@ -1,2 +1,0 @@
-# sts-command-chain
-.
